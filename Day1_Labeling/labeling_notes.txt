@@ -1,0 +1,9 @@
+Day 1 – Image Labeling Summary
+
+- Tool used: Roboflow
+- Number of images labeled: 150
+- Export format: YOLOv5
+- Class labeled: license_plate
+- Annotations used in Day 2 YOLOv5 training
+- Labeled via manual annotation in Roboflow interface
+- Exported dataset was downloaded as a ZIP
