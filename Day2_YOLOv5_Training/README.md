@@ -4,5 +4,5 @@ This notebook documents the process of training a YOLOv5 model on a custom licen
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Structure 
 

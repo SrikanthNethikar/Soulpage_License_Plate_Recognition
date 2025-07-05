@@ -4,7 +4,7 @@
 - Roboflow Labeling Tool
 - Exported in YOLOv5 format
 
-## 📁 Folder Contents
+## 📁   Folder Contents
 - `labeling_notes.txt`: Contains summary of labeling
 - `sample_labeled_images/`: Example labeled images (optional)
 
