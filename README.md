@@ -1,4 +1,5 @@
 
+
 ---
 
 ## 📌 Summary of Each Day
@@ -70,3 +71,6 @@ These predictions show the model detecting and drawing bounding boxes around lic
 ## 📎 Related Tags
 `YOLOv5` `Computer Vision` `License Plate Detection` `Python` `Colab` `Roboflow` `OpenCV` `PyTorch` `Career Switch` `AI Portfolio`
 Added for GitHub detection test
+
+# Soulpage_License_Plate_Recognition
+
